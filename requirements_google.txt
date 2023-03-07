@@ -1,0 +1,10 @@
+# https://github.com/googleapis/google-api-python-client
+# working with Google APIs
+google-api-python-client
+
+# https://github.com/googleapis/google-auth-library-python
+# authenticate your API requests
+google-oauth
+
+# Other precompiled Google Cloud client libraries
+# pick in https://github.com/googleapis/google-cloud-python

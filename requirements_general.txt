@@ -1,0 +1,3 @@
+# https://pypi.org/project/python-dotenv/
+# reads key-value pairs from a `.env` file and can set them as environment variables.
+python-dotenv
