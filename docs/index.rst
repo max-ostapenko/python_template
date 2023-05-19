@@ -5,8 +5,7 @@ Welcome to Your Module Name's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   module_file_1
-   module_file_2
+   config
 
 Indices and tables
 ==================
